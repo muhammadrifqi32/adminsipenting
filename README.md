@@ -1,2 +1,8 @@
-# adminsipenting
+﻿# adminsipenting
 Ini adalah project proyek akhir kuliah saya yang berjudul "Aplikasi Pendeteksian Tingkat Kematangan Kelapa Sawit Berdasarkan Komposisi Warna Menggunakan Algoritma K-NN". Dengan aplikasi ini, kita bisa mengetahui apakah sawit yang telah dipanen layak untuk diolah dan diangkut ke pabrik atau tidak. Cukup dengan mengambil gambar, kemudian upload untuk mengetahui labelnya. Aplikasi ini menggunakan framework CodeIgniter. Algoritma yang digunakan pada aplikasi ini adalah K-Nearest Neighbor (K-NN) dan menggunakan metode ekstraksi ciri warna Red,Green and Blue (RGB).  Aplikasi adminsipenting digunakan untuk memasukkan data training. Selain itu, aplikasi ini juga bisa digunakan untuk memprediksi label sawit. This is the project of my college final project with the title is “Detection Application of Palm Oil Maturity Level Based on Color Composition Using the K-NN Algorithm”. With this application, we can know is the palm oil that have been harvested is worth to processed and carried to the factory or not. Just take the picture, then upload it to know the label. This application developed using CodeIgniter framework. The algorithm that’s used in this application is K-Nearest Neighbor (K-NN) and used RGB featured extraction. Adminsipenting’s application used for entered training data. Beside that, the application also can predict the label of the palm oil.
+
+ALERT!
+repositori ini telah termasuk dengan database yang digunakan pada projek ini
+
+ALERT!
+this repository has been included with database that using for this project
